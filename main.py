@@ -1,0 +1,12 @@
+"""
+Main entry point for PREY dungeon crawler RL game.
+Manages the game loop and high-level execution flow.
+"""
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
