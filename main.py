@@ -5,7 +5,7 @@ Manages the game loop and high-level execution flow.
 
 
 def main():
-    pass
+    print("start")
 
 
 if __name__ == "__main__":
